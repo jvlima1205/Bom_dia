@@ -10,6 +10,9 @@ namespace Projeto_teste02
             Console.WriteLine("Opa tudo bom?");
             string bom = Console.ReadLine();
 
+            Console.WriteLine("Que bom que você está " +bom+ ", até mais");
+            Console.ReadKey();
+
         }
     }
 }

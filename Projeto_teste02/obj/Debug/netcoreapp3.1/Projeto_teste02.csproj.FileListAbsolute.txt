@@ -1,0 +1,13 @@
+C:\Users\jvlim\Desktop\Projeto_teste02\Projeto_teste02\bin\Debug\netcoreapp3.1\Projeto_teste02.exe
+C:\Users\jvlim\Desktop\Projeto_teste02\Projeto_teste02\bin\Debug\netcoreapp3.1\Projeto_teste02.deps.json
+C:\Users\jvlim\Desktop\Projeto_teste02\Projeto_teste02\bin\Debug\netcoreapp3.1\Projeto_teste02.runtimeconfig.json
+C:\Users\jvlim\Desktop\Projeto_teste02\Projeto_teste02\bin\Debug\netcoreapp3.1\Projeto_teste02.runtimeconfig.dev.json
+C:\Users\jvlim\Desktop\Projeto_teste02\Projeto_teste02\bin\Debug\netcoreapp3.1\Projeto_teste02.dll
+C:\Users\jvlim\Desktop\Projeto_teste02\Projeto_teste02\bin\Debug\netcoreapp3.1\Projeto_teste02.pdb
+C:\Users\jvlim\Desktop\Projeto_teste02\Projeto_teste02\obj\Debug\netcoreapp3.1\Projeto_teste02.csproj.AssemblyReference.cache
+C:\Users\jvlim\Desktop\Projeto_teste02\Projeto_teste02\obj\Debug\netcoreapp3.1\Projeto_teste02.AssemblyInfoInputs.cache
+C:\Users\jvlim\Desktop\Projeto_teste02\Projeto_teste02\obj\Debug\netcoreapp3.1\Projeto_teste02.AssemblyInfo.cs
+C:\Users\jvlim\Desktop\Projeto_teste02\Projeto_teste02\obj\Debug\netcoreapp3.1\Projeto_teste02.csproj.CoreCompileInputs.cache
+C:\Users\jvlim\Desktop\Projeto_teste02\Projeto_teste02\obj\Debug\netcoreapp3.1\Projeto_teste02.dll
+C:\Users\jvlim\Desktop\Projeto_teste02\Projeto_teste02\obj\Debug\netcoreapp3.1\Projeto_teste02.pdb
+C:\Users\jvlim\Desktop\Projeto_teste02\Projeto_teste02\obj\Debug\netcoreapp3.1\Projeto_teste02.genruntimeconfig.cache
